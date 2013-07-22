@@ -1,0 +1,4 @@
+name: gravel-common-ssl
+requires-apt: python2.7 build-essential libssl-dev python2.7-dev
+
+preinstall: make
